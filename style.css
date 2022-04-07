@@ -1,0 +1,17 @@
+#bodyCalculator{
+    text-align:center;
+    background-color: aquamarine;
+  }
+  #heading{
+    font-variant:small-caps;
+  }
+  #area{
+      font-weight: bold;
+  }
+  #perimeter{
+    font-weight: bold;
+  }
+  #calculate_area{
+      background-color: blue;
+      color: aquamarine;
+  }
